@@ -1,0 +1,14 @@
+{
+  "name": "gost",
+  "description": "deploy gost to Heroku.",
+  "keywords": ["gost"],
+  "env": {
+	  "GOST_RUN_SERVER": {
+		  "description": "https:// or mws or ws",
+		  "value": "https://"
+	  }
+  },
+  "website": "https://github.com/toyourheart163/ohmygost",
+  "repository": "https://github.com/toyourheart163/ohmygost",
+  "stack": "container"
+ }
