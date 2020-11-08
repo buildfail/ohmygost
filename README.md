@@ -9,7 +9,7 @@ Deploy gost to heroku
 
 ##### Heroku One Click Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/v-wei40680/ohmygost)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/buildfail/ohmygost)
 
 ##### config 配置
 
